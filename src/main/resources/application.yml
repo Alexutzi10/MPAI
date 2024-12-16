@@ -1,0 +1,10 @@
+#spring.application.name=mpai.demo
+
+spring:
+  application:
+    name: mpai.demo
+    version: 2
+
+server:
+  servlet:
+    context-path: /mpai-spring-mvc
